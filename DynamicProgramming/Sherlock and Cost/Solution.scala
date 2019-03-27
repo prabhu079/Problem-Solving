@@ -1,6 +1,10 @@
 import scala.io.StdIn._
 import math._
 
+/*
+ * https://www.hackerrank.com/challenges/sherlock-and-cost/problem
+ */
+import scala.math._
 object Solution {
   val pattern = " ".r
   def main(args: Array[String]) {
