@@ -3,6 +3,7 @@
 /*/*/.pydevproject
 pushToGithub.bat
 /*/*/.idea
+/*/*/*/.idea
 /*/*/project
 /*/*/target
 /*/*/.project
