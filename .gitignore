@@ -1,11 +1,7 @@
-/*/.metadata
-/*/*/.project
-/*/*/.pydevproject
+*/.metadata
+*/.project
+*/.pydevproject
 pushToGithub.bat
-/*/*/.idea
-/*/*/*/.idea
-/*/*/project
-/*/*/target
-/*/*/.project
-/*/*/.pydevproject
+*/target
+*/.pydevproject
 */.idea
